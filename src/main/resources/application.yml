@@ -1,0 +1,12 @@
+seimi:
+  crawler:
+    enabled: true
+    names:
+      -
+server:
+  port: 1112
+
+qywx:
+  notify: true
+  corpId: wx7250b3b504d9d590
+  assistantSecret: WOrKJqkKdYTOYVAUxcd6tqsGHkHRWQCDvHivJzfBFgc
